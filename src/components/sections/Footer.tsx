@@ -35,6 +35,9 @@ export const Footer: React.FC = () => {
           </div>
           <div className="footer-col">
             <h3>Connect</h3>
+            <a href="https://github.com/DaveAgustino" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://www.linkedin.com/in/davecaacoy/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://www.behance.net/daveagcaacoy" target="_blank" rel="noopener noreferrer">Behance</a>
             <a href="https://t.me/daveagustincaacoy" target="_blank" rel="noopener noreferrer">Telegram</a>
             <a href="mailto:caacoydave@gmail.com">Email</a>
           </div>
